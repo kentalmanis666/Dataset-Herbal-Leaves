@@ -2,7 +2,7 @@ Collect Dataset Herbal Leaves
 
 Daun Pandan dan Daun Kemangi
 
-## Description
+## Deskripsi
 - Pandan merupakan segolongan tumbuhan monokotil dari genus Pandanus. Sebagian besar anggotanya merupakan tumbuh di pantai-pantai daerah tropika. Anggota tumbuhan ini dicirikan dengan daun yang memanjang (seperti daun palem atau rumput), seringkali tepinya bergerigi. Akarnya besar dan memiliki akar tunjang yang menopang tumbuhan ini. Buah pandan tersusun dalam karangan berbentuk membulat, seperti buah durian. Ukuran tumbuhan ini bervariasi, mulai dari 50cm hingga 5 meter, bahkan di Papua banyak pandan hingga ketinggian 15 meter. Daunnya selalu hijau (hijau abadi, evergreen), sehingga beberapa di antaranya dijadikan tanaman hias. Berbagai jenis pandan menyebar dari Afrika Timur, Asia Tenggara, Australia hingga kepulauan Pasifik.
 - Kemangi adalah tumbuhan tahunan yang tumbuh tegak dengan cabang yang banyak. Tanaman ini berbentuk perdu yang tingginya dapat mencapai 100 cm. Bunganya tersusun di tandan yang tegak. Daunnya panjang, tegak, berbentuk taji atau bulat telur, berwarna hijau muda dan berbau harum.
 
@@ -39,7 +39,7 @@ Daun yang memanjang (seperti daun palem atau rumput), sering kali tepinya berger
 
 
 
-## Authors
+## Contributors
 
 Contributors names
 
