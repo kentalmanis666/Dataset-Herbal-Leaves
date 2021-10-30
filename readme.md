@@ -14,7 +14,7 @@ Daun yang memanjang (seperti daun palem atau rumput), sering kali tepinya berger
 ### DAUN KEMANGI
 
 
- Daunnya panjang, tegak, berbentuk taji atau bulat telur,[1] berwarna hijau muda dan berbau harum. Ujung daun bisa tumpul atau bisa juga tajam, panjangnya mencapai 5 cm. Permukaan bergerigi atau juga rata. Wanginya seperti cengkih dan rasanya pahit
+ Daunnya panjang, tegak, berbentuk taji atau bulat telur,berwarna hijau muda dan berbau harum. Ujung daun bisa tumpul atau bisa juga tajam, panjangnya mencapai 5 cm. Permukaan bergerigi atau juga rata. Wanginya seperti cengkih dan rasanya pahit
 
 ### Manfaat Daun Pandan
 
