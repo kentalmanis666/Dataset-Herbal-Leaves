@@ -43,6 +43,6 @@ Daun yang memanjang (seperti daun palem atau rumput), sering kali tepinya berger
 
 Contributors names
 
-1. Ferriansyah An-noor Rachmadi_293
+1. Ferriansyah An-noor Rachmadi_201910370311293
 
-2. Yudysfianda Ramadhani Susminarto_270
+2. Yudysfianda Ramadhani Susminarto_201910370311279
